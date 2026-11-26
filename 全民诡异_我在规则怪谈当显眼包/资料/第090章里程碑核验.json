@@ -1,0 +1,800 @@
+{
+  "checkedAt": "2026-11-26 08:17:45 +08:00",
+  "timezone": "Asia/Shanghai",
+  "countingRule": "Chapter bodies only. Han U+4E00-U+9FFF and non-whitespace characters counted separately. Headings, outline, notes, scripts and backups excluded.",
+  "completedChapters": 90,
+  "structuralStatus": "verified",
+  "nextChapter": 91,
+  "nextTitle": "联赛邀请函",
+  "totalHan": 255399,
+  "totalNonWhitespace": 294323,
+  "newStart": 61,
+  "newChapters": 30,
+  "newHan": 85386,
+  "newNonWhitespace": 96957,
+  "novelTargetHan": 1000000,
+  "goalStatus": "active",
+  "chapterCounts": [
+    {
+      "chapter": 1,
+      "title": "第三次敲门",
+      "han": 2840,
+      "nonWhitespace": 3340,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 2,
+      "title": "你刚才在直播我",
+      "han": 2796,
+      "nonWhitespace": 3336,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 3,
+      "title": "差评封印",
+      "han": 2849,
+      "nonWhitespace": 3379,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 4,
+      "title": "妹妹上线",
+      "han": 2789,
+      "nonWhitespace": 3292,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 5,
+      "title": "幸福小区",
+      "han": 2791,
+      "nonWhitespace": 3271,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 6,
+      "title": "物业不提供情绪价值",
+      "han": 2731,
+      "nonWhitespace": 3241,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 7,
+      "title": "评论区有内鬼",
+      "han": 2809,
+      "nonWhitespace": 3285,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 8,
+      "title": "前台阿姨的微笑",
+      "han": 2732,
+      "nonWhitespace": 3206,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 9,
+      "title": "通关奖励是母亲的声音",
+      "han": 2764,
+      "nonWhitespace": 3219,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 10,
+      "title": "副本之外还有副本",
+      "han": 2771,
+      "nonWhitespace": 3220,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 11,
+      "title": "进局先签免责声明",
+      "han": 2836,
+      "nonWhitespace": 3359,
+      "file": "第011-015章.md"
+    },
+    {
+      "chapter": 12,
+      "title": "见习主播的第一单",
+      "han": 2814,
+      "nonWhitespace": 3349,
+      "file": "第011-015章.md"
+    },
+    {
+      "chapter": 13,
+      "title": "安全副本不安全",
+      "han": 2879,
+      "nonWhitespace": 3362,
+      "file": "第011-015章.md"
+    },
+    {
+      "chapter": 14,
+      "title": "五星好评不能救命",
+      "han": 2802,
+      "nonWhitespace": 3286,
+      "file": "第011-015章.md"
+    },
+    {
+      "chapter": 15,
+      "title": "妹妹的住院押金",
+      "han": 2896,
+      "nonWhitespace": 3456,
+      "file": "第011-015章.md"
+    },
+    {
+      "chapter": 16,
+      "title": "404 的旧照片",
+      "han": 2890,
+      "nonWhitespace": 3419,
+      "file": "第016-020章.md"
+    },
+    {
+      "chapter": 17,
+      "title": "门后面的门",
+      "han": 2903,
+      "nonWhitespace": 3411,
+      "file": "第016-020章.md"
+    },
+    {
+      "chapter": 18,
+      "title": "规则也要加班",
+      "han": 2822,
+      "nonWhitespace": 3338,
+      "file": "第016-020章.md"
+    },
+    {
+      "chapter": 19,
+      "title": "第一个破防观众",
+      "han": 2890,
+      "nonWhitespace": 3358,
+      "file": "第016-020章.md"
+    },
+    {
+      "chapter": 20,
+      "title": "母亲不在名单里",
+      "han": 2876,
+      "nonWhitespace": 3352,
+      "file": "第016-020章.md"
+    },
+    {
+      "chapter": 21,
+      "title": "楼顶的临时演员",
+      "han": 2973,
+      "nonWhitespace": 3507,
+      "file": "第021-025章.md"
+    },
+    {
+      "chapter": 22,
+      "title": "直播回放三秒",
+      "han": 2877,
+      "nonWhitespace": 3370,
+      "file": "第021-025章.md"
+    },
+    {
+      "chapter": 23,
+      "title": "物业经理的绩效",
+      "han": 2951,
+      "nonWhitespace": 3418,
+      "file": "第021-025章.md"
+    },
+    {
+      "chapter": 24,
+      "title": "大壮的承重",
+      "han": 3092,
+      "nonWhitespace": 3611,
+      "file": "第021-025章.md"
+    },
+    {
+      "chapter": 25,
+      "title": "观众请勿喂食",
+      "han": 3180,
+      "nonWhitespace": 3633,
+      "file": "第021-025章.md"
+    },
+    {
+      "chapter": 26,
+      "title": "第四条隐藏规则",
+      "han": 2986,
+      "nonWhitespace": 3460,
+      "file": "第026-030章.md"
+    },
+    {
+      "chapter": 27,
+      "title": "关灯之后的热搜",
+      "han": 2814,
+      "nonWhitespace": 3237,
+      "file": "第026-030章.md"
+    },
+    {
+      "chapter": 28,
+      "title": "404分局来电",
+      "han": 2833,
+      "nonWhitespace": 3240,
+      "file": "第026-030章.md"
+    },
+    {
+      "chapter": 29,
+      "title": "我偏要查",
+      "han": 2801,
+      "nonWhitespace": 3183,
+      "file": "第026-030章.md"
+    },
+    {
+      "chapter": 30,
+      "title": "午夜没有结束",
+      "han": 2838,
+      "nonWhitespace": 3290,
+      "file": "第026-030章.md"
+    },
+    {
+      "chapter": 31,
+      "title": "入学通知书",
+      "han": 2751,
+      "nonWhitespace": 3191,
+      "file": "第031-035章.md"
+    },
+    {
+      "chapter": 32,
+      "title": "校规第一条",
+      "han": 2735,
+      "nonWhitespace": 3163,
+      "file": "第031-035章.md"
+    },
+    {
+      "chapter": 33,
+      "title": "扣分校长",
+      "han": 2731,
+      "nonWhitespace": 3194,
+      "file": "第031-035章.md"
+    },
+    {
+      "chapter": 34,
+      "title": "迟到的转学生",
+      "han": 2724,
+      "nonWhitespace": 3140,
+      "file": "第031-035章.md"
+    },
+    {
+      "chapter": 35,
+      "title": "课间十分钟",
+      "han": 2810,
+      "nonWhitespace": 3234,
+      "file": "第031-035章.md"
+    },
+    {
+      "chapter": 36,
+      "title": "黑板上的母亲",
+      "han": 2783,
+      "nonWhitespace": 3265,
+      "file": "第036-040章.md"
+    },
+    {
+      "chapter": 37,
+      "title": "体育老师不喜欢跑步",
+      "han": 2845,
+      "nonWhitespace": 3311,
+      "file": "第036-040章.md"
+    },
+    {
+      "chapter": 38,
+      "title": "期中考试直播",
+      "han": 2817,
+      "nonWhitespace": 3230,
+      "file": "第036-040章.md"
+    },
+    {
+      "chapter": 39,
+      "title": "选择题没有正确答案",
+      "han": 2762,
+      "nonWhitespace": 3189,
+      "file": "第036-040章.md"
+    },
+    {
+      "chapter": 40,
+      "title": "校长的家长会",
+      "han": 2761,
+      "nonWhitespace": 3204,
+      "file": "第036-040章.md"
+    },
+    {
+      "chapter": 41,
+      "title": "宋知微的姐姐",
+      "han": 2763,
+      "nonWhitespace": 3163,
+      "file": "第041-043章.md"
+    },
+    {
+      "chapter": 42,
+      "title": "试卷背面",
+      "han": 2753,
+      "nonWhitespace": 3171,
+      "file": "第041-043章.md"
+    },
+    {
+      "chapter": 43,
+      "title": "值日生名单",
+      "han": 2745,
+      "nonWhitespace": 3169,
+      "file": "第041-043章.md"
+    },
+    {
+      "chapter": 44,
+      "title": "校医室的白灯",
+      "han": 3010,
+      "nonWhitespace": 3528,
+      "file": "第044-047章.md"
+    },
+    {
+      "chapter": 45,
+      "title": "运动会开幕",
+      "han": 2856,
+      "nonWhitespace": 3263,
+      "file": "第044-047章.md"
+    },
+    {
+      "chapter": 46,
+      "title": "红旗不能倒",
+      "han": 2834,
+      "nonWhitespace": 3241,
+      "file": "第044-047章.md"
+    },
+    {
+      "chapter": 47,
+      "title": "广播站点歌",
+      "han": 2702,
+      "nonWhitespace": 3112,
+      "file": "第044-047章.md"
+    },
+    {
+      "chapter": 48,
+      "title": "学生会主席",
+      "han": 2727,
+      "nonWhitespace": 3156,
+      "file": "第048-051章.md"
+    },
+    {
+      "chapter": 49,
+      "title": "谁在给校长打分",
+      "han": 2725,
+      "nonWhitespace": 3116,
+      "file": "第048-051章.md"
+    },
+    {
+      "chapter": 50,
+      "title": "逃课路线",
+      "han": 2739,
+      "nonWhitespace": 3163,
+      "file": "第048-051章.md"
+    },
+    {
+      "chapter": 51,
+      "title": "记忆补考",
+      "han": 2750,
+      "nonWhitespace": 3148,
+      "file": "第048-051章.md"
+    },
+    {
+      "chapter": 52,
+      "title": "教务处的第四把钥匙",
+      "han": 2955,
+      "nonWhitespace": 3413,
+      "file": "第052-055章.md"
+    },
+    {
+      "chapter": 53,
+      "title": "毕业照",
+      "han": 2881,
+      "nonWhitespace": 3329,
+      "file": "第052-055章.md"
+    },
+    {
+      "chapter": 54,
+      "title": "校长也会被扣分",
+      "han": 2826,
+      "nonWhitespace": 3210,
+      "file": "第052-055章.md"
+    },
+    {
+      "chapter": 55,
+      "title": "观众席的空位",
+      "han": 2933,
+      "nonWhitespace": 3384,
+      "file": "第052-055章.md"
+    },
+    {
+      "chapter": 56,
+      "title": "规则放学",
+      "han": 2844,
+      "nonWhitespace": 3241,
+      "file": "第056-060章.md"
+    },
+    {
+      "chapter": 57,
+      "title": "逃出校门",
+      "han": 2869,
+      "nonWhitespace": 3269,
+      "file": "第056-060章.md"
+    },
+    {
+      "chapter": 58,
+      "title": "宋知微的选择",
+      "han": 2810,
+      "nonWhitespace": 3186,
+      "file": "第056-060章.md"
+    },
+    {
+      "chapter": 59,
+      "title": "天命榜预告",
+      "han": 2835,
+      "nonWhitespace": 3251,
+      "file": "第056-060章.md"
+    },
+    {
+      "chapter": 60,
+      "title": "黑板擦掉的名字",
+      "han": 2912,
+      "nonWhitespace": 3304,
+      "file": "第056-060章.md"
+    },
+    {
+      "chapter": 61,
+      "title": "热榜开赛",
+      "han": 2840,
+      "nonWhitespace": 3265,
+      "file": "第三卷_全国热榜\\第061-065章.md"
+    },
+    {
+      "chapter": 62,
+      "title": "十秒破题",
+      "han": 2842,
+      "nonWhitespace": 3266,
+      "file": "第三卷_全国热榜\\第061-065章.md"
+    },
+    {
+      "chapter": 63,
+      "title": "公会合同",
+      "han": 2821,
+      "nonWhitespace": 3247,
+      "file": "第三卷_全国热榜\\第061-065章.md"
+    },
+    {
+      "chapter": 64,
+      "title": "热度财团",
+      "han": 2825,
+      "nonWhitespace": 3221,
+      "file": "第三卷_全国热榜\\第061-065章.md"
+    },
+    {
+      "chapter": 65,
+      "title": "第一场连麦",
+      "han": 2807,
+      "nonWhitespace": 3185,
+      "file": "第三卷_全国热榜\\第061-065章.md"
+    },
+    {
+      "chapter": 66,
+      "title": "观众的选择",
+      "han": 2813,
+      "nonWhitespace": 3209,
+      "file": "第三卷_全国热榜\\第066-070章.md"
+    },
+    {
+      "chapter": 67,
+      "title": "返场优惠",
+      "han": 2805,
+      "nonWhitespace": 3188,
+      "file": "第三卷_全国热榜\\第066-070章.md"
+    },
+    {
+      "chapter": 68,
+      "title": "低价安全感",
+      "han": 2815,
+      "nonWhitespace": 3210,
+      "file": "第三卷_全国热榜\\第066-070章.md"
+    },
+    {
+      "chapter": 69,
+      "title": "江野的黑粉",
+      "han": 2824,
+      "nonWhitespace": 3203,
+      "file": "第三卷_全国热榜\\第066-070章.md"
+    },
+    {
+      "chapter": 70,
+      "title": "零差评主播",
+      "han": 2859,
+      "nonWhitespace": 3243,
+      "file": "第三卷_全国热榜\\第066-070章.md"
+    },
+    {
+      "chapter": 71,
+      "title": "城市接力",
+      "han": 2821,
+      "nonWhitespace": 3216,
+      "file": "第三卷_全国热榜\\第071-075章.md"
+    },
+    {
+      "chapter": 72,
+      "title": "直播间的延迟",
+      "han": 2922,
+      "nonWhitespace": 3278,
+      "file": "第三卷_全国热榜\\第071-075章.md"
+    },
+    {
+      "chapter": 73,
+      "title": "先救谁",
+      "han": 2983,
+      "nonWhitespace": 3379,
+      "file": "第三卷_全国热榜\\第071-075章.md"
+    },
+    {
+      "chapter": 74,
+      "title": "大壮的火场",
+      "han": 2873,
+      "nonWhitespace": 3276,
+      "file": "第三卷_全国热榜\\第071-075章.md"
+    },
+    {
+      "chapter": 75,
+      "title": "宋知微的证词",
+      "han": 2813,
+      "nonWhitespace": 3175,
+      "file": "第三卷_全国热榜\\第071-075章.md"
+    },
+    {
+      "chapter": 76,
+      "title": "404 片段",
+      "han": 2836,
+      "nonWhitespace": 3204,
+      "file": "第三卷_全国热榜\\第076-080章.md"
+    },
+    {
+      "chapter": 77,
+      "title": "会员专享怪谈",
+      "han": 2839,
+      "nonWhitespace": 3219,
+      "file": "第三卷_全国热榜\\第076-080章.md"
+    },
+    {
+      "chapter": 78,
+      "title": "江野被点名",
+      "han": 2802,
+      "nonWhitespace": 3173,
+      "file": "第三卷_全国热榜\\第076-080章.md"
+    },
+    {
+      "chapter": 79,
+      "title": "没有笑声的喜剧",
+      "han": 2824,
+      "nonWhitespace": 3182,
+      "file": "第三卷_全国热榜\\第076-080章.md"
+    },
+    {
+      "chapter": 80,
+      "title": "周不二的榜一",
+      "han": 2899,
+      "nonWhitespace": 3301,
+      "file": "第三卷_全国热榜\\第076-080章.md"
+    },
+    {
+      "chapter": 81,
+      "title": "公开审判",
+      "han": 3032,
+      "nonWhitespace": 3446,
+      "file": "第三卷_全国热榜\\第081-085章.md"
+    },
+    {
+      "chapter": 82,
+      "title": "反向带货",
+      "han": 2876,
+      "nonWhitespace": 3244,
+      "file": "第三卷_全国热榜\\第081-085章.md"
+    },
+    {
+      "chapter": 83,
+      "title": "观众信任归零",
+      "han": 2883,
+      "nonWhitespace": 3240,
+      "file": "第三卷_全国热榜\\第081-085章.md"
+    },
+    {
+      "chapter": 84,
+      "title": "规则没有观众",
+      "han": 2865,
+      "nonWhitespace": 3282,
+      "file": "第三卷_全国热榜\\第081-085章.md"
+    },
+    {
+      "chapter": 85,
+      "title": "白主任的权限",
+      "han": 2807,
+      "nonWhitespace": 3170,
+      "file": "第三卷_全国热榜\\第081-085章.md"
+    },
+    {
+      "chapter": 86,
+      "title": "热榜决赛",
+      "han": 2808,
+      "nonWhitespace": 3203,
+      "file": "第三卷_全国热榜\\第086-090章.md"
+    },
+    {
+      "chapter": 87,
+      "title": "江棠的第一条弹幕",
+      "han": 2805,
+      "nonWhitespace": 3180,
+      "file": "第三卷_全国热榜\\第086-090章.md"
+    },
+    {
+      "chapter": 88,
+      "title": "直播间停电",
+      "han": 2812,
+      "nonWhitespace": 3171,
+      "file": "第三卷_全国热榜\\第086-090章.md"
+    },
+    {
+      "chapter": 89,
+      "title": "夺回解释权",
+      "han": 2811,
+      "nonWhitespace": 3180,
+      "file": "第三卷_全国热榜\\第086-090章.md"
+    },
+    {
+      "chapter": 90,
+      "title": "热搜之后",
+      "han": 2824,
+      "nonWhitespace": 3201,
+      "file": "第三卷_全国热榜\\第086-090章.md"
+    }
+  ],
+  "volumeCounts": [
+    {
+      "volume": 1,
+      "chapters": 30,
+      "han": 85825,
+      "nonWhitespace": 100428
+    },
+    {
+      "volume": 2,
+      "chapters": 30,
+      "han": 84188,
+      "nonWhitespace": 96938
+    },
+    {
+      "volume": 3,
+      "chapters": 30,
+      "han": 85386,
+      "nonWhitespace": 96957
+    }
+  ],
+  "fileChecks": [
+    {
+      "file": "第001-010章.md",
+      "chapterCount": 10,
+      "semanticSha256": "2409F7D0712B583EEC309E4FC1C3154C0B97BA17DF7201A42F88E5055C9EDC0E",
+      "sha256": "46DD89FE972599DD2EF64F028601F92581A9D9248686F964327C5B9E93B61F7A",
+      "paragraphBreaks": 0
+    },
+    {
+      "file": "第011-015章.md",
+      "chapterCount": 5,
+      "semanticSha256": "0DB118F44ED8285E3826DC39BFBF22EA5EA85174E4FFB29652E4E35694BD1057",
+      "sha256": "D93B78A2B9935E56A1C6071FD35BBDF7699F65AF04E1D9BBBBF35C6496CF7205",
+      "paragraphBreaks": 0
+    },
+    {
+      "file": "第016-020章.md",
+      "chapterCount": 5,
+      "semanticSha256": "DE905C05FC8C846B397E21D82564D7CD83481F03FC7255C81C55266460D79E8E",
+      "sha256": "0D8400AA9C0C64F5F23DCD167CB650AD7F4A0A10F551CBDA7BFF9CF1952A1CD2",
+      "paragraphBreaks": 0
+    },
+    {
+      "file": "第021-025章.md",
+      "chapterCount": 5,
+      "semanticSha256": "06DAC7C1EA9382785A59D20AB5258F2ECA021BDC4E59430BCC49EE17B615F152",
+      "sha256": "E5E4673AB5B4EB89A9E3CEBD5119B328DC7C2B8B7009ACE6B0EFDF29D022AF6A",
+      "paragraphBreaks": 0
+    },
+    {
+      "file": "第026-030章.md",
+      "chapterCount": 5,
+      "semanticSha256": "7B8525E3057FE5B7104D502E2104FE5F9A0AD6EDDB8C600F03EBF6AB39108833",
+      "sha256": "678721688429CD80286332FF0A242280B35AF039BCD7A072D0FC11092E10635C",
+      "paragraphBreaks": 0
+    },
+    {
+      "file": "第031-035章.md",
+      "chapterCount": 5,
+      "semanticSha256": "12E009F7CE079E9CCB63A0F7F931E40824DD522C0CEFA82183A423E653CE3EBE",
+      "sha256": "4F3A0532CE9FCC2E5546E4CF6FB480AC7FFD72E98D094B486142C66F525B649D",
+      "paragraphBreaks": 598
+    },
+    {
+      "file": "第036-040章.md",
+      "chapterCount": 5,
+      "semanticSha256": "A466BDBDC4B5D154154CD38BBC082928ED48FED4C7BEEA9D73BF24535868C75E",
+      "sha256": "87B2BF3AF2318227736607CF883D07C9957F1719A20483ADCF66EE819C2BEA81",
+      "paragraphBreaks": 618
+    },
+    {
+      "file": "第041-043章.md",
+      "chapterCount": 3,
+      "semanticSha256": "9E1AD341A5F3B487904107EE25680DBDD25067A555D53B055E50522B5586DA41",
+      "sha256": "26CD8E9D636DE34FD792843EB8436A8FC78D1F0540591A21A89853DA86DB151E",
+      "paragraphBreaks": 335
+    },
+    {
+      "file": "第044-047章.md",
+      "chapterCount": 4,
+      "semanticSha256": "928E410693DE665AAA8A8632A9146099463DFBA1F96CA7081C9BDD7940C773FC",
+      "sha256": "FC872EB8B26C1CB3DDE80DFA9638720F2A38CAA89F3180BC876C7BA1A1ABAD14",
+      "paragraphBreaks": 467
+    },
+    {
+      "file": "第048-051章.md",
+      "chapterCount": 4,
+      "semanticSha256": "2E8C36810091A5A63917C0A4CE26295B0C56BF55FA6652A5C4A7C9A4794DC6A1",
+      "sha256": "92A48652FCC7B228564FDB7A8FE3291FF23071949769882C15A7B8426EC9FC6F",
+      "paragraphBreaks": 461
+    },
+    {
+      "file": "第052-055章.md",
+      "chapterCount": 4,
+      "semanticSha256": "305A122D89F27CE97A1FE5B07D15F5F550D951F587F3060B67FD50327EEE5C06",
+      "sha256": "8BC84B8D883E934D88FAECC825EEF9AC73A1CE6D55CD8FC96810FA89FC885109",
+      "paragraphBreaks": 437
+    },
+    {
+      "file": "第056-060章.md",
+      "chapterCount": 5,
+      "semanticSha256": "64E549A19CE6E2D7DD37723D28A0B11C796E8ECE971E802EC36D9D5D634B21EC",
+      "sha256": "56DC91002B9EB238CFAE8AC6BF66340AD6DCC18376288B0E2A2660802CA3D7E4",
+      "paragraphBreaks": 517
+    },
+    {
+      "file": "第三卷_全国热榜\\第061-065章.md",
+      "chapterCount": 5,
+      "semanticSha256": "F5FE8B2472CE9A447A5E80AA72B5C0D950FEC570BEEC203F74785CDD0FC07F4D",
+      "sha256": "D526E0C6626F65A2C8E27F44605F6AC884FB3C56444B55CAFC88B94801B66A2A",
+      "paragraphBreaks": 538
+    },
+    {
+      "file": "第三卷_全国热榜\\第066-070章.md",
+      "chapterCount": 5,
+      "semanticSha256": "F2D4E2FD658B4E27DB86539026730B98D73AA0184DDDF4A801EF750D7368605A",
+      "sha256": "1CFB04E60D08E5A8F59BBC0E4250DBF049C8E9531F16C57F3248C4C70B36E52F",
+      "paragraphBreaks": 490
+    },
+    {
+      "file": "第三卷_全国热榜\\第071-075章.md",
+      "chapterCount": 5,
+      "semanticSha256": "A44EA5C9E6FBA90C8E4D1CFFC2D00662A531804F33115A1FC00F0D869198001C",
+      "sha256": "7D93AA8CF57EF8A0F531A2FD1FCA75BD54F340DC5509AFAB6588019CA60A5980",
+      "paragraphBreaks": 490
+    },
+    {
+      "file": "第三卷_全国热榜\\第076-080章.md",
+      "chapterCount": 5,
+      "semanticSha256": "27CA5C0832423BB3CBD308CC661BAA6288B63C68C4D7E64AE31E2C9B4BC26D12",
+      "sha256": "9B0532A22FD8C616F53989F74F974D110C22B76E50FD86F58E0E45D5EAE8C80A",
+      "paragraphBreaks": 454
+    },
+    {
+      "file": "第三卷_全国热榜\\第081-085章.md",
+      "chapterCount": 5,
+      "semanticSha256": "BB8217A20EC2A3A6A7172972B76F4E4F09900402893D87919D4C614A0A000790",
+      "sha256": "6AD4F9229F406B0E87AB25BF184B9E3BAB85D1C5FC21E8D45F4A1CC2A9BBD64B",
+      "paragraphBreaks": 455
+    },
+    {
+      "file": "第三卷_全国热榜\\第086-090章.md",
+      "chapterCount": 5,
+      "semanticSha256": "106C8FF50479CA64FCC647405E61DCFCF3C83C8176D3A00D9B70435F8886B0B4",
+      "sha256": "0B1CFBA556BFFC1385668F57B091D0A21F71773AAD095D976526AE4358192389",
+      "paragraphBreaks": 485
+    }
+  ],
+  "lengthIssues": [],
+  "titleIssues": [],
+  "missingNumbers": []
+}

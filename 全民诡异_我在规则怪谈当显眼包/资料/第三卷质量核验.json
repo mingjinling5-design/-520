@@ -1,0 +1,311 @@
+{
+  "checkedAt": "2026-11-26",
+  "finalDirectory": "正文/第三卷_全国热榜",
+  "chapters": 30,
+  "totalHan": 85386,
+  "minimumHan": 2802.0,
+  "maximumHan": 3032.0,
+  "income": 644.0,
+  "spend": 234.0,
+  "ledger": [
+    {
+      "chapter": 61,
+      "income": 0,
+      "spend": 0,
+      "expectedIncome": 0,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 62,
+      "income": 30,
+      "spend": 12,
+      "expectedIncome": 30,
+      "expectedSpend": 12,
+      "matches": true
+    },
+    {
+      "chapter": 63,
+      "income": 18,
+      "spend": 8,
+      "expectedIncome": 18,
+      "expectedSpend": 8,
+      "matches": true
+    },
+    {
+      "chapter": 64,
+      "income": 20,
+      "spend": 0,
+      "expectedIncome": 20,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 65,
+      "income": 26,
+      "spend": 14,
+      "expectedIncome": 26,
+      "expectedSpend": 14,
+      "matches": true
+    },
+    {
+      "chapter": 66,
+      "income": 24,
+      "spend": 16,
+      "expectedIncome": 24,
+      "expectedSpend": 16,
+      "matches": true
+    },
+    {
+      "chapter": 67,
+      "income": 28,
+      "spend": 10,
+      "expectedIncome": 28,
+      "expectedSpend": 10,
+      "matches": true
+    },
+    {
+      "chapter": 68,
+      "income": 16,
+      "spend": 0,
+      "expectedIncome": 16,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 69,
+      "income": 20,
+      "spend": 12,
+      "expectedIncome": 20,
+      "expectedSpend": 12,
+      "matches": true
+    },
+    {
+      "chapter": 70,
+      "income": 32,
+      "spend": 0,
+      "expectedIncome": 32,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 71,
+      "income": 24,
+      "spend": 14,
+      "expectedIncome": 24,
+      "expectedSpend": 14,
+      "matches": true
+    },
+    {
+      "chapter": 72,
+      "income": 22,
+      "spend": 12,
+      "expectedIncome": 22,
+      "expectedSpend": 12,
+      "matches": true
+    },
+    {
+      "chapter": 73,
+      "income": 26,
+      "spend": 16,
+      "expectedIncome": 26,
+      "expectedSpend": 16,
+      "matches": true
+    },
+    {
+      "chapter": 74,
+      "income": 34,
+      "spend": 0,
+      "expectedIncome": 34,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 75,
+      "income": 0,
+      "spend": 0,
+      "expectedIncome": 0,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 76,
+      "income": 20,
+      "spend": 10,
+      "expectedIncome": 20,
+      "expectedSpend": 10,
+      "matches": true
+    },
+    {
+      "chapter": 77,
+      "income": 28,
+      "spend": 18,
+      "expectedIncome": 28,
+      "expectedSpend": 18,
+      "matches": true
+    },
+    {
+      "chapter": 78,
+      "income": 18,
+      "spend": 0,
+      "expectedIncome": 18,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 79,
+      "income": 30,
+      "spend": 12,
+      "expectedIncome": 30,
+      "expectedSpend": 12,
+      "matches": true
+    },
+    {
+      "chapter": 80,
+      "income": 0,
+      "spend": 0,
+      "expectedIncome": 0,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 81,
+      "income": 0,
+      "spend": 0,
+      "expectedIncome": 0,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 82,
+      "income": 36,
+      "spend": 20,
+      "expectedIncome": 36,
+      "expectedSpend": 20,
+      "matches": true
+    },
+    {
+      "chapter": 83,
+      "income": 0,
+      "spend": 0,
+      "expectedIncome": 0,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 84,
+      "income": 20,
+      "spend": 0,
+      "expectedIncome": 20,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 85,
+      "income": 24,
+      "spend": 14,
+      "expectedIncome": 24,
+      "expectedSpend": 14,
+      "matches": true
+    },
+    {
+      "chapter": 86,
+      "income": 40,
+      "spend": 22,
+      "expectedIncome": 40,
+      "expectedSpend": 22,
+      "matches": true
+    },
+    {
+      "chapter": 87,
+      "income": 0,
+      "spend": 0,
+      "expectedIncome": 0,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 88,
+      "income": 0,
+      "spend": 0,
+      "expectedIncome": 0,
+      "expectedSpend": 0,
+      "matches": true
+    },
+    {
+      "chapter": 89,
+      "income": 48,
+      "spend": 24,
+      "expectedIncome": 48,
+      "expectedSpend": 24,
+      "matches": true
+    },
+    {
+      "chapter": 90,
+      "income": 60,
+      "spend": 0,
+      "expectedIncome": 60,
+      "expectedSpend": 0,
+      "matches": true
+    }
+  ],
+  "writingArtifactIssues": [],
+  "repeatedLongParagraphs": [],
+  "earlierVolumeHashes": [
+    {
+      "file": "第001-010章.md",
+      "stable": true
+    },
+    {
+      "file": "第011-015章.md",
+      "stable": true
+    },
+    {
+      "file": "第016-020章.md",
+      "stable": true
+    },
+    {
+      "file": "第021-025章.md",
+      "stable": true
+    },
+    {
+      "file": "第026-030章.md",
+      "stable": true
+    },
+    {
+      "file": "第031-035章.md",
+      "stable": true
+    },
+    {
+      "file": "第036-040章.md",
+      "stable": true
+    },
+    {
+      "file": "第041-043章.md",
+      "stable": true
+    },
+    {
+      "file": "第044-047章.md",
+      "stable": true
+    },
+    {
+      "file": "第048-051章.md",
+      "stable": true
+    },
+    {
+      "file": "第052-055章.md",
+      "stable": true
+    },
+    {
+      "file": "第056-060章.md",
+      "stable": true
+    }
+  ],
+  "causalDebtAtEnd": 10,
+  "cashReceipts": {
+    "chapter61": 16800,
+    "chapter90": 180000
+  },
+  "nextChapter": 91,
+  "nextTitle": "联赛邀请函"
+}

@@ -1,0 +1,476 @@
+{
+  "checkedAt": "2026-11-25",
+  "timezone": "Asia/Shanghai",
+  "countingRule": "Chapter body only; Han U+4E00-U+9FFF and non-whitespace characters counted separately; headings, outline, notes and backups excluded.",
+  "completedChapters": 60,
+  "nextChapter": 61,
+  "nextTitle": "热榜开赛",
+  "totalHan": 170013,
+  "totalNonWhitespace": 197366,
+  "newChapters": 30,
+  "newHan": 84188,
+  "newNonWhitespace": 96938,
+  "newChapterMinimumHan": 2702.0,
+  "newChapterMaximumHan": 3010.0,
+  "novelTargetHan": 1000000,
+  "goalStatus": "active",
+  "chapterCounts": [
+    {
+      "chapter": 1,
+      "title": "第三次敲门",
+      "han": 2840,
+      "nonWhitespace": 3340,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 2,
+      "title": "你刚才在直播我",
+      "han": 2796,
+      "nonWhitespace": 3336,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 3,
+      "title": "差评封印",
+      "han": 2849,
+      "nonWhitespace": 3379,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 4,
+      "title": "妹妹上线",
+      "han": 2789,
+      "nonWhitespace": 3292,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 5,
+      "title": "幸福小区",
+      "han": 2791,
+      "nonWhitespace": 3271,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 6,
+      "title": "物业不提供情绪价值",
+      "han": 2731,
+      "nonWhitespace": 3241,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 7,
+      "title": "评论区有内鬼",
+      "han": 2809,
+      "nonWhitespace": 3285,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 8,
+      "title": "前台阿姨的微笑",
+      "han": 2732,
+      "nonWhitespace": 3206,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 9,
+      "title": "通关奖励是母亲的声音",
+      "han": 2764,
+      "nonWhitespace": 3219,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 10,
+      "title": "副本之外还有副本",
+      "han": 2771,
+      "nonWhitespace": 3220,
+      "file": "第001-010章.md"
+    },
+    {
+      "chapter": 11,
+      "title": "进局先签免责声明",
+      "han": 2836,
+      "nonWhitespace": 3359,
+      "file": "第011-015章.md"
+    },
+    {
+      "chapter": 12,
+      "title": "见习主播的第一单",
+      "han": 2814,
+      "nonWhitespace": 3349,
+      "file": "第011-015章.md"
+    },
+    {
+      "chapter": 13,
+      "title": "安全副本不安全",
+      "han": 2879,
+      "nonWhitespace": 3362,
+      "file": "第011-015章.md"
+    },
+    {
+      "chapter": 14,
+      "title": "五星好评不能救命",
+      "han": 2802,
+      "nonWhitespace": 3286,
+      "file": "第011-015章.md"
+    },
+    {
+      "chapter": 15,
+      "title": "妹妹的住院押金",
+      "han": 2896,
+      "nonWhitespace": 3456,
+      "file": "第011-015章.md"
+    },
+    {
+      "chapter": 16,
+      "title": "404 的旧照片",
+      "han": 2890,
+      "nonWhitespace": 3419,
+      "file": "第016-020章.md"
+    },
+    {
+      "chapter": 17,
+      "title": "门后面的门",
+      "han": 2903,
+      "nonWhitespace": 3411,
+      "file": "第016-020章.md"
+    },
+    {
+      "chapter": 18,
+      "title": "规则也要加班",
+      "han": 2822,
+      "nonWhitespace": 3338,
+      "file": "第016-020章.md"
+    },
+    {
+      "chapter": 19,
+      "title": "第一个破防观众",
+      "han": 2890,
+      "nonWhitespace": 3358,
+      "file": "第016-020章.md"
+    },
+    {
+      "chapter": 20,
+      "title": "母亲不在名单里",
+      "han": 2876,
+      "nonWhitespace": 3352,
+      "file": "第016-020章.md"
+    },
+    {
+      "chapter": 21,
+      "title": "楼顶的临时演员",
+      "han": 2973,
+      "nonWhitespace": 3507,
+      "file": "第021-025章.md"
+    },
+    {
+      "chapter": 22,
+      "title": "直播回放三秒",
+      "han": 2877,
+      "nonWhitespace": 3370,
+      "file": "第021-025章.md"
+    },
+    {
+      "chapter": 23,
+      "title": "物业经理的绩效",
+      "han": 2951,
+      "nonWhitespace": 3418,
+      "file": "第021-025章.md"
+    },
+    {
+      "chapter": 24,
+      "title": "大壮的承重",
+      "han": 3092,
+      "nonWhitespace": 3611,
+      "file": "第021-025章.md"
+    },
+    {
+      "chapter": 25,
+      "title": "观众请勿喂食",
+      "han": 3180,
+      "nonWhitespace": 3633,
+      "file": "第021-025章.md"
+    },
+    {
+      "chapter": 26,
+      "title": "第四条隐藏规则",
+      "han": 2986,
+      "nonWhitespace": 3460,
+      "file": "第026-030章.md"
+    },
+    {
+      "chapter": 27,
+      "title": "关灯之后的热搜",
+      "han": 2814,
+      "nonWhitespace": 3237,
+      "file": "第026-030章.md"
+    },
+    {
+      "chapter": 28,
+      "title": "404分局来电",
+      "han": 2833,
+      "nonWhitespace": 3240,
+      "file": "第026-030章.md"
+    },
+    {
+      "chapter": 29,
+      "title": "我偏要查",
+      "han": 2801,
+      "nonWhitespace": 3183,
+      "file": "第026-030章.md"
+    },
+    {
+      "chapter": 30,
+      "title": "午夜没有结束",
+      "han": 2838,
+      "nonWhitespace": 3290,
+      "file": "第026-030章.md"
+    },
+    {
+      "chapter": 31,
+      "title": "入学通知书",
+      "han": 2751,
+      "nonWhitespace": 3191,
+      "file": "第031-035章.md"
+    },
+    {
+      "chapter": 32,
+      "title": "校规第一条",
+      "han": 2735,
+      "nonWhitespace": 3163,
+      "file": "第031-035章.md"
+    },
+    {
+      "chapter": 33,
+      "title": "扣分校长",
+      "han": 2731,
+      "nonWhitespace": 3194,
+      "file": "第031-035章.md"
+    },
+    {
+      "chapter": 34,
+      "title": "迟到的转学生",
+      "han": 2724,
+      "nonWhitespace": 3140,
+      "file": "第031-035章.md"
+    },
+    {
+      "chapter": 35,
+      "title": "课间十分钟",
+      "han": 2810,
+      "nonWhitespace": 3234,
+      "file": "第031-035章.md"
+    },
+    {
+      "chapter": 36,
+      "title": "黑板上的母亲",
+      "han": 2783,
+      "nonWhitespace": 3265,
+      "file": "第036-040章.md"
+    },
+    {
+      "chapter": 37,
+      "title": "体育老师不喜欢跑步",
+      "han": 2845,
+      "nonWhitespace": 3311,
+      "file": "第036-040章.md"
+    },
+    {
+      "chapter": 38,
+      "title": "期中考试直播",
+      "han": 2817,
+      "nonWhitespace": 3230,
+      "file": "第036-040章.md"
+    },
+    {
+      "chapter": 39,
+      "title": "选择题没有正确答案",
+      "han": 2762,
+      "nonWhitespace": 3189,
+      "file": "第036-040章.md"
+    },
+    {
+      "chapter": 40,
+      "title": "校长的家长会",
+      "han": 2761,
+      "nonWhitespace": 3204,
+      "file": "第036-040章.md"
+    },
+    {
+      "chapter": 41,
+      "title": "宋知微的姐姐",
+      "han": 2763,
+      "nonWhitespace": 3163,
+      "file": "第041-043章.md"
+    },
+    {
+      "chapter": 42,
+      "title": "试卷背面",
+      "han": 2753,
+      "nonWhitespace": 3171,
+      "file": "第041-043章.md"
+    },
+    {
+      "chapter": 43,
+      "title": "值日生名单",
+      "han": 2745,
+      "nonWhitespace": 3169,
+      "file": "第041-043章.md"
+    },
+    {
+      "chapter": 44,
+      "title": "校医室的白灯",
+      "han": 3010,
+      "nonWhitespace": 3528,
+      "file": "第044-047章.md"
+    },
+    {
+      "chapter": 45,
+      "title": "运动会开幕",
+      "han": 2856,
+      "nonWhitespace": 3263,
+      "file": "第044-047章.md"
+    },
+    {
+      "chapter": 46,
+      "title": "红旗不能倒",
+      "han": 2834,
+      "nonWhitespace": 3241,
+      "file": "第044-047章.md"
+    },
+    {
+      "chapter": 47,
+      "title": "广播站点歌",
+      "han": 2702,
+      "nonWhitespace": 3112,
+      "file": "第044-047章.md"
+    },
+    {
+      "chapter": 48,
+      "title": "学生会主席",
+      "han": 2727,
+      "nonWhitespace": 3156,
+      "file": "第048-051章.md"
+    },
+    {
+      "chapter": 49,
+      "title": "谁在给校长打分",
+      "han": 2725,
+      "nonWhitespace": 3116,
+      "file": "第048-051章.md"
+    },
+    {
+      "chapter": 50,
+      "title": "逃课路线",
+      "han": 2739,
+      "nonWhitespace": 3163,
+      "file": "第048-051章.md"
+    },
+    {
+      "chapter": 51,
+      "title": "记忆补考",
+      "han": 2750,
+      "nonWhitespace": 3148,
+      "file": "第048-051章.md"
+    },
+    {
+      "chapter": 52,
+      "title": "教务处的第四把钥匙",
+      "han": 2955,
+      "nonWhitespace": 3413,
+      "file": "第052-055章.md"
+    },
+    {
+      "chapter": 53,
+      "title": "毕业照",
+      "han": 2881,
+      "nonWhitespace": 3329,
+      "file": "第052-055章.md"
+    },
+    {
+      "chapter": 54,
+      "title": "校长也会被扣分",
+      "han": 2826,
+      "nonWhitespace": 3210,
+      "file": "第052-055章.md"
+    },
+    {
+      "chapter": 55,
+      "title": "观众席的空位",
+      "han": 2933,
+      "nonWhitespace": 3384,
+      "file": "第052-055章.md"
+    },
+    {
+      "chapter": 56,
+      "title": "规则放学",
+      "han": 2844,
+      "nonWhitespace": 3241,
+      "file": "第056-060章.md"
+    },
+    {
+      "chapter": 57,
+      "title": "逃出校门",
+      "han": 2869,
+      "nonWhitespace": 3269,
+      "file": "第056-060章.md"
+    },
+    {
+      "chapter": 58,
+      "title": "宋知微的选择",
+      "han": 2810,
+      "nonWhitespace": 3186,
+      "file": "第056-060章.md"
+    },
+    {
+      "chapter": 59,
+      "title": "天命榜预告",
+      "han": 2835,
+      "nonWhitespace": 3251,
+      "file": "第056-060章.md"
+    },
+    {
+      "chapter": 60,
+      "title": "黑板擦掉的名字",
+      "han": 2912,
+      "nonWhitespace": 3304,
+      "file": "第056-060章.md"
+    }
+  ],
+  "newFileReadback": [
+    {
+      "file": "第031-035章.md",
+      "paragraphBreaks": 598,
+      "sha256": "4F3A0532CE9FCC2E5546E4CF6FB480AC7FFD72E98D094B486142C66F525B649D"
+    },
+    {
+      "file": "第036-040章.md",
+      "paragraphBreaks": 618,
+      "sha256": "87B2BF3AF2318227736607CF883D07C9957F1719A20483ADCF66EE819C2BEA81"
+    },
+    {
+      "file": "第041-043章.md",
+      "paragraphBreaks": 335,
+      "sha256": "26CD8E9D636DE34FD792843EB8436A8FC78D1F0540591A21A89853DA86DB151E"
+    },
+    {
+      "file": "第044-047章.md",
+      "paragraphBreaks": 467,
+      "sha256": "FC872EB8B26C1CB3DDE80DFA9638720F2A38CAA89F3180BC876C7BA1A1ABAD14"
+    },
+    {
+      "file": "第048-051章.md",
+      "paragraphBreaks": 461,
+      "sha256": "92A48652FCC7B228564FDB7A8FE3291FF23071949769882C15A7B8426EC9FC6F"
+    },
+    {
+      "file": "第052-055章.md",
+      "paragraphBreaks": 437,
+      "sha256": "8BC84B8D883E934D88FAECC825EEF9AC73A1CE6D55CD8FC96810FA89FC885109"
+    },
+    {
+      "file": "第056-060章.md",
+      "paragraphBreaks": 517,
+      "sha256": "56DC91002B9EB238CFAE8AC6BF66340AD6DCC18376288B0E2A2660802CA3D7E4"
+    }
+  ]
+}
